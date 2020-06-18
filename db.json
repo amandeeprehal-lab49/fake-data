@@ -1,29 +1,29 @@
 {
-   "accounts":[
+   "balances":[
       {
          "id":1,
-         "accountName":"Build Wealth",
+         "balanceType":"Build Wealth",
          "currentBalance":78200,
          "withdrawals":1566.834,
          "deposits":3344.333
       },
       {
          "id":2,
-         "accountName":"Retirement",
+         "balanceType":"Retirement",
          "currentBalance":5300,
          "withdrawals":2500.834,
          "deposits":432.333
       },
       {
          "id":3,
-         "accountName":"Safety Net",
+         "balanceType":"Safety Net",
          "currentBalance":240000,
          "withdrawals":3005.834,
          "deposits":5399.333
       },
       {
          "id":4,
-         "accountName":"Safety Net 2",
+         "balanceType":"Safety Net 2",
          "currentBalance":70000,
          "withdrawals":755.834,
          "deposits":7700
@@ -32,98 +32,98 @@
    "transactions":[
       {
          "id":1,
-         "accountName":"Build Wealth",
+         "balanceType":"Build Wealth",
          "partyName":"Eva Air",
-         "amount":22.22,
-         "endBalance":57773.44,
+         "transactionAmount":22.22,
+         "currentBalance":57773.44,
          "type":"debit"
       },
       {
          "id":2,
-         "accountName":"Build Wealth",
+         "balanceType":"Build Wealth",
          "partyName":"GM - Dividend",
-         "amount":570.00,
-         "endBalance":55123.44,
+         "transactionAmount":570.00,
+         "currentBalance":55123.44,
          "type":"credit"
       },
       {
          "id":3,
-         "accountName":"Safety Net",
+         "balanceType":"Safety Net",
          "partyName":"Holiday Inn",
-         "amount":3322.22,
-         "endBalance":223.44,
+         "transactionAmount":3322.22,
+         "currentBalance":223.44,
          "type":"debit"
       },
       {
          "id":4,
-         "accountName":"Retirement",
+         "balanceType":"Retirement",
          "partyName":"IRS Tax Refund",
-         "amount":3321.22,
-         "endBalance":5222.44,
+         "transactionAmount":3321.22,
+         "currentBalance":5222.44,
          "type":"credit"
       },
       {
          "id":5,
-         "accountName":"Safety Net",
+         "balanceType":"Safety Net",
          "partyName":"Holiday Inn",
-         "amount":3322.22,
-         "endBalance":223.44,
+         "transactionAmount":3322.22,
+         "currentBalance":223.44,
          "type":"debit"
       },
       {
          "id":6,
-         "accountName":"Retirement",
+         "balanceType":"Retirement",
          "partyName":"IRS Tax Refund",
-         "amount":3321.22,
-         "endBalance":5222.44,
+         "transactionAmount":3321.22,
+         "currentBalance":5222.44,
          "type":"credit"
       },
       {
          "id":7,
-         "accountName":"Build Wealth",
+         "balanceType":"Build Wealth",
          "partyName":"Eva Air",
-         "amount":22.22,
-         "endBalance":57773.44,
+         "transactionAmount":22.22,
+         "currentBalance":57773.44,
          "type":"debit"
       },
       {
          "id":8,
-         "accountName":"Build Wealth",
+         "balanceType":"Build Wealth",
          "partyName":"GM - Dividend",
-         "amount":570.00,
-         "endBalance":55123.44,
+         "transactionAmount":570.00,
+         "currentBalance":55123.44,
          "type":"credit"
       },
       {
          "id":9,
-         "accountName":"Safety Net",
+         "balanceType":"Safety Net",
          "partyName":"Holiday Inn",
-         "amount":3322.22,
-         "endBalance":223.44,
+         "transactionAmount":3322.22,
+         "currentBalance":223.44,
          "type":"debit"
       },
       {
          "id":10,
-         "accountName":"Retirement",
+         "balanceType":"Retirement",
          "partyName":"IRS Tax Refund",
-         "amount":3321.22,
-         "endBalance":5222.44,
+         "transactionAmount":3321.22,
+         "currentBalance":5222.44,
          "type":"credit"
       },
       {
          "id":11,
-         "accountName":"Safety Net 2",
+         "balanceType":"Safety Net 2",
          "partyName":"Holiday Inn",
-         "amount":3322.22,
-         "endBalance":223.44,
+         "transactionAmount":3322.22,
+         "currentBalance":223.44,
          "type":"debit"
       },
       {
          "id":12,
-         "accountName":"Retirement",
+         "balanceType":"Retirement",
          "partyName":"IRS Tax Refund",
-         "amount":3321.22,
-         "endBalance":5222.44,
+         "transactionAmount":3321.22,
+         "currentBalance":5222.44,
          "type":"credit"
       }
    ]
