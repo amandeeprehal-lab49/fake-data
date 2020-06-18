@@ -82,7 +82,7 @@
          "transactionAmount":3321.22,
          "currentBalance":5222.44,
          "type":"credit",
-         "transactionType": "travel"
+         "transactionType": "airline"
       },
       {
          "id":7,
@@ -91,7 +91,7 @@
          "transactionAmount":22.22,
          "currentBalance":57773.44,
          "type":"debit",
-         "transactionType": "travel"
+         "transactionType": "airline"
       },
       {
          "id":8,
@@ -109,7 +109,7 @@
          "transactionAmount":3322.22,
          "currentBalance":223.44,
          "type":"debit",
-         "transactionType": "travel"
+         "transactionType": "airline"
       },
       {
          "id":10,
